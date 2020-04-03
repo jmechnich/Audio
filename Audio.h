@@ -100,6 +100,7 @@
 #include "input_pdm.h"
 #include "input_spdif3.h"
 #include "mixer.h"
+#include "mixer_xf.h"
 #include "output_dac.h"
 #include "output_dacs.h"
 #include "output_i2s.h"
